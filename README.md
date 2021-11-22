@@ -3,7 +3,7 @@
 
 1. Install all packages
 
-   ``` composer install
+   ```composer install2
 composer install
 2. Cp .env.example to .env
     #  Cp .env.example to .env
