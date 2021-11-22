@@ -7,7 +7,9 @@
    ```
 
 2. Cp .env.example to .env
-
+    #  Cp .env.example to .env
+    ```
+    
 3. Run migrations
 
    # php artisan migrate --seed
