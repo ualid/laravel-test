@@ -6,12 +6,14 @@
    # composer install
    ```
 
-2. Run migrations
+2. Cp .env.example to .env
+
+3. Run migrations
 
    # php artisan migrate --seed
    ```
 
-3. Run test
+4. Run test
 
 
    # php artisan test
